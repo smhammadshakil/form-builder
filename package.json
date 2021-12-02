@@ -1,6 +1,6 @@
 {
-  "homepage": "https://smhammadshakil.github.io/form-builder",
-  "name": "form-builder",
+  "homepage": "https://smhammadshakil.github.io/form-builder-react",
+  "name": "form-builder-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
